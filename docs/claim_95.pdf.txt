@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-75683
+Policy Holder: Emma Clark
+Date of Incident: 03/14/2025
+Claim Amount: $156,743
+Claim Type: Travel
+Description: Theft of personal belongings
+Documentation: Receipts and photos attached
+1

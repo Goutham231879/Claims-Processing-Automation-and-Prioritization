@@ -1,0 +1,616 @@
+2025-07-07 12:19:33,478 - INFO - Processing: sample.pdf
+2025-07-07 12:19:33,534 - INFO - Skipping sample.pdf: Not a claim document (Type: guide)
+2025-07-07 12:19:33,535 - INFO - Processing: sample_claim.pdf
+2025-07-07 12:19:33,553 - INFO - Extracted Info for sample_claim.pdf: {'claim_number': 'CLM-98765', 'policy_holder': 'Jane Smith', 'incident_date': '06/30/2025', 'claim_amount': '100,000', 'claim_type': 'Medical'}
+2025-07-07 12:19:33,553 - INFO - Missing Fields: False
+2025-07-07 12:19:33,553 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:19:33,560 - INFO - Queued for review: CLM-98765 (Priority: 7)
+2025-07-07 12:19:33,560 - INFO - Successfully processed: sample_claim.pdf
+2025-07-07 12:33:00,164 - INFO - Processing: claim_1.pdf
+2025-07-07 12:33:00,195 - INFO - Extracted Info for claim_1.pdf: {'claim_number': 'CLM-42981', 'policy_holder': 'James Taylor', 'incident_date': '02/28/2024', 'claim_amount': '42,786', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,195 - INFO - Missing Fields: False
+2025-07-07 12:33:00,195 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,196 - INFO - Queued for review: CLM-42981 (Priority: 4)
+2025-07-07 12:33:00,196 - INFO - Successfully processed: claim_1.pdf
+2025-07-07 12:33:00,196 - INFO - Processing: claim_10.pdf
+2025-07-07 12:33:00,219 - INFO - Extracted Info for claim_10.pdf: {'claim_number': 'CLM-90343', 'policy_holder': 'Alex Brown', 'incident_date': '12/17/2025', 'claim_amount': '45,634', 'claim_type': 'Travel'}
+2025-07-07 12:33:00,219 - INFO - Missing Fields: False
+2025-07-07 12:33:00,219 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:00,220 - INFO - Auto-processed: CLM-90343
+2025-07-07 12:33:00,220 - INFO - Successfully processed: claim_10.pdf
+2025-07-07 12:33:00,220 - INFO - Processing: claim_100.pdf
+2025-07-07 12:33:00,242 - INFO - Extracted Info for claim_100.pdf: {'claim_number': 'CLM-32821', 'policy_holder': 'Emma Clark', 'incident_date': '01/02/2024', 'claim_amount': '185,597', 'claim_type': 'Travel'}
+2025-07-07 12:33:00,242 - INFO - Missing Fields: False
+2025-07-07 12:33:00,242 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,250 - INFO - Queued for review: CLM-32821 (Priority: 4)
+2025-07-07 12:33:00,250 - INFO - Successfully processed: claim_100.pdf
+2025-07-07 12:33:00,250 - INFO - Processing: claim_11.pdf
+2025-07-07 12:33:00,269 - INFO - Extracted Info for claim_11.pdf: {'claim_number': 'CLM-78602', 'policy_holder': None, 'incident_date': None, 'claim_amount': '196,941', 'claim_type': 'Travel'}
+2025-07-07 12:33:00,269 - INFO - Missing Fields: True
+2025-07-07 12:33:00,270 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,278 - INFO - Queued for review: CLM-78602 (Priority: 7)
+2025-07-07 12:33:00,278 - INFO - Successfully processed: claim_11.pdf
+2025-07-07 12:33:00,278 - INFO - Processing: claim_12.pdf
+2025-07-07 12:33:00,299 - INFO - Extracted Info for claim_12.pdf: {'claim_number': 'CLM-82010', 'policy_holder': 'John Doe', 'incident_date': '11/29/2024', 'claim_amount': '152,757', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:00,299 - INFO - Missing Fields: False
+2025-07-07 12:33:00,299 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,308 - INFO - Queued for review: CLM-82010 (Priority: 4)
+2025-07-07 12:33:00,308 - INFO - Successfully processed: claim_12.pdf
+2025-07-07 12:33:00,308 - INFO - Processing: claim_13.pdf
+2025-07-07 12:33:00,328 - INFO - Extracted Info for claim_13.pdf: {'claim_number': 'CLM-97536', 'policy_holder': 'Emma Clark', 'incident_date': None, 'claim_amount': '10,517', 'claim_type': 'Home'}
+2025-07-07 12:33:00,328 - INFO - Missing Fields: True
+2025-07-07 12:33:00,328 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,338 - INFO - Queued for review: CLM-97536 (Priority: 4)
+2025-07-07 12:33:00,339 - INFO - Successfully processed: claim_13.pdf
+2025-07-07 12:33:00,339 - INFO - Processing: claim_14.pdf
+2025-07-07 12:33:00,360 - INFO - Extracted Info for claim_14.pdf: {'claim_number': 'CLM-61426', 'policy_holder': 'Alex Brown', 'incident_date': '08/07/2024', 'claim_amount': '33,899', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,361 - INFO - Missing Fields: False
+2025-07-07 12:33:00,361 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,370 - INFO - Queued for review: CLM-61426 (Priority: 4)
+2025-07-07 12:33:00,370 - INFO - Successfully processed: claim_14.pdf
+2025-07-07 12:33:00,370 - INFO - Processing: claim_15.pdf
+2025-07-07 12:33:00,394 - INFO - Extracted Info for claim_15.pdf: {'claim_number': 'CLM-39193', 'policy_holder': 'Jane Smith', 'incident_date': '01/15/2024', 'claim_amount': '53,917', 'claim_type': 'Travel'}
+2025-07-07 12:33:00,394 - INFO - Missing Fields: False
+2025-07-07 12:33:00,395 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,404 - INFO - Queued for review: CLM-39193 (Priority: 4)
+2025-07-07 12:33:00,404 - INFO - Successfully processed: claim_15.pdf
+2025-07-07 12:33:00,404 - INFO - Processing: claim_16.pdf
+2025-07-07 12:33:00,425 - INFO - Extracted Info for claim_16.pdf: {'claim_number': 'CLM-34908', 'policy_holder': None, 'incident_date': '05/25/2024', 'claim_amount': '70,420', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,426 - INFO - Missing Fields: True
+2025-07-07 12:33:00,426 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:00,435 - INFO - Queued for review: CLM-34908 (Priority: 10)
+2025-07-07 12:33:00,435 - INFO - Successfully processed: claim_16.pdf
+2025-07-07 12:33:00,435 - INFO - Processing: claim_17.pdf
+2025-07-07 12:33:00,456 - INFO - Extracted Info for claim_17.pdf: {'claim_number': 'CLM-90567', 'policy_holder': 'John Doe', 'incident_date': None, 'claim_amount': '37,640', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,456 - INFO - Missing Fields: True
+2025-07-07 12:33:00,456 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,467 - INFO - Queued for review: CLM-90567 (Priority: 7)
+2025-07-07 12:33:00,467 - INFO - Successfully processed: claim_17.pdf
+2025-07-07 12:33:00,467 - INFO - Processing: claim_18.pdf
+2025-07-07 12:33:00,487 - INFO - Extracted Info for claim_18.pdf: {'claim_number': 'CLM-27496', 'policy_holder': None, 'incident_date': '08/19/2024', 'claim_amount': '173,629', 'claim_type': 'Travel'}
+2025-07-07 12:33:00,488 - INFO - Missing Fields: True
+2025-07-07 12:33:00,488 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,499 - INFO - Queued for review: CLM-27496 (Priority: 7)
+2025-07-07 12:33:00,499 - INFO - Successfully processed: claim_18.pdf
+2025-07-07 12:33:00,499 - INFO - Processing: claim_19.pdf
+2025-07-07 12:33:00,521 - INFO - Extracted Info for claim_19.pdf: {'claim_number': 'CLM-58636', 'policy_holder': 'Emma Clark', 'incident_date': '03/05/2024', 'claim_amount': '105,499', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,521 - INFO - Missing Fields: False
+2025-07-07 12:33:00,521 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,530 - INFO - Queued for review: CLM-58636 (Priority: 7)
+2025-07-07 12:33:00,530 - INFO - Successfully processed: claim_19.pdf
+2025-07-07 12:33:00,530 - INFO - Processing: claim_2.pdf
+2025-07-07 12:33:00,551 - INFO - Extracted Info for claim_2.pdf: {'claim_number': 'CLM-13709', 'policy_holder': 'David Lee', 'incident_date': None, 'claim_amount': '17,463', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,551 - INFO - Missing Fields: True
+2025-07-07 12:33:00,551 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,561 - INFO - Queued for review: CLM-13709 (Priority: 7)
+2025-07-07 12:33:00,561 - INFO - Successfully processed: claim_2.pdf
+2025-07-07 12:33:00,561 - INFO - Processing: claim_20.pdf
+2025-07-07 12:33:00,583 - INFO - Extracted Info for claim_20.pdf: {'claim_number': 'CLM-29042', 'policy_holder': 'Emily Davis', 'incident_date': None, 'claim_amount': None, 'claim_type': 'Home'}
+2025-07-07 12:33:00,583 - INFO - Missing Fields: True
+2025-07-07 12:33:00,583 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,593 - INFO - Queued for review: CLM-29042 (Priority: 4)
+2025-07-07 12:33:00,593 - INFO - Successfully processed: claim_20.pdf
+2025-07-07 12:33:00,593 - INFO - Processing: claim_21.pdf
+2025-07-07 12:33:00,620 - INFO - Extracted Info for claim_21.pdf: {'claim_number': 'CLM-73881', 'policy_holder': 'James Taylor', 'incident_date': None, 'claim_amount': '89,624', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,620 - INFO - Missing Fields: True
+2025-07-07 12:33:00,620 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:00,631 - INFO - Queued for review: CLM-73881 (Priority: 10)
+2025-07-07 12:33:00,631 - INFO - Successfully processed: claim_21.pdf
+2025-07-07 12:33:00,631 - INFO - Processing: claim_22.pdf
+2025-07-07 12:33:00,653 - INFO - Extracted Info for claim_22.pdf: {'claim_number': 'CLM-32058', 'policy_holder': 'Laura Martinez', 'incident_date': '05/10/2024', 'claim_amount': None, 'claim_type': 'Theft'}
+2025-07-07 12:33:00,653 - INFO - Missing Fields: True
+2025-07-07 12:33:00,653 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,663 - INFO - Queued for review: CLM-32058 (Priority: 7)
+2025-07-07 12:33:00,663 - INFO - Successfully processed: claim_22.pdf
+2025-07-07 12:33:00,663 - INFO - Processing: claim_23.pdf
+2025-07-07 12:33:00,686 - INFO - Extracted Info for claim_23.pdf: {'claim_number': 'CLM-11099', 'policy_holder': 'James Taylor', 'incident_date': '12/17/2024', 'claim_amount': '22,188', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,686 - INFO - Missing Fields: False
+2025-07-07 12:33:00,686 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,696 - INFO - Queued for review: CLM-11099 (Priority: 4)
+2025-07-07 12:33:00,696 - INFO - Successfully processed: claim_23.pdf
+2025-07-07 12:33:00,697 - INFO - Processing: claim_24.pdf
+2025-07-07 12:33:00,720 - INFO - Extracted Info for claim_24.pdf: {'claim_number': 'CLM-87680', 'policy_holder': 'Michael Chen', 'incident_date': '02/02/2025', 'claim_amount': '116,666', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:00,720 - INFO - Missing Fields: False
+2025-07-07 12:33:00,720 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,730 - INFO - Queued for review: CLM-87680 (Priority: 4)
+2025-07-07 12:33:00,731 - INFO - Successfully processed: claim_24.pdf
+2025-07-07 12:33:00,731 - INFO - Processing: claim_25.pdf
+2025-07-07 12:33:00,753 - INFO - Extracted Info for claim_25.pdf: {'claim_number': 'CLM-67575', 'policy_holder': 'Sarah Wilson', 'incident_date': None, 'claim_amount': '75,496', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,753 - INFO - Missing Fields: True
+2025-07-07 12:33:00,753 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:00,762 - INFO - Queued for review: CLM-67575 (Priority: 10)
+2025-07-07 12:33:00,762 - INFO - Successfully processed: claim_25.pdf
+2025-07-07 12:33:00,762 - INFO - Processing: claim_26.pdf
+2025-07-07 12:33:00,787 - INFO - Extracted Info for claim_26.pdf: {'claim_number': 'CLM-70949', 'policy_holder': 'Emma Clark', 'incident_date': '07/30/2024', 'claim_amount': '121,443', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,787 - INFO - Missing Fields: False
+2025-07-07 12:33:00,787 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,797 - INFO - Queued for review: CLM-70949 (Priority: 7)
+2025-07-07 12:33:00,797 - INFO - Successfully processed: claim_26.pdf
+2025-07-07 12:33:00,797 - INFO - Processing: claim_27.pdf
+2025-07-07 12:33:00,820 - INFO - Extracted Info for claim_27.pdf: {'claim_number': 'CLM-76980', 'policy_holder': 'Jane Smith', 'incident_date': '05/13/2024', 'claim_amount': '86,627', 'claim_type': 'Medical'}
+2025-07-07 12:33:00,820 - INFO - Missing Fields: False
+2025-07-07 12:33:00,820 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,831 - INFO - Queued for review: CLM-76980 (Priority: 7)
+2025-07-07 12:33:00,831 - INFO - Successfully processed: claim_27.pdf
+2025-07-07 12:33:00,831 - INFO - Processing: claim_28.pdf
+2025-07-07 12:33:00,854 - INFO - Extracted Info for claim_28.pdf: {'claim_number': 'CLM-22660', 'policy_holder': 'Michael Chen', 'incident_date': '12/23/2025', 'claim_amount': '51,422', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:00,854 - INFO - Missing Fields: False
+2025-07-07 12:33:00,854 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,864 - INFO - Queued for review: CLM-22660 (Priority: 4)
+2025-07-07 12:33:00,864 - INFO - Successfully processed: claim_28.pdf
+2025-07-07 12:33:00,864 - INFO - Processing: claim_29.pdf
+2025-07-07 12:33:00,887 - INFO - Extracted Info for claim_29.pdf: {'claim_number': 'CLM-68877', 'policy_holder': 'Michael Chen', 'incident_date': '08/25/2024', 'claim_amount': '105,744', 'claim_type': 'Theft'}
+2025-07-07 12:33:00,887 - INFO - Missing Fields: False
+2025-07-07 12:33:00,887 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,897 - INFO - Queued for review: CLM-68877 (Priority: 7)
+2025-07-07 12:33:00,898 - INFO - Successfully processed: claim_29.pdf
+2025-07-07 12:33:00,898 - INFO - Processing: claim_3.pdf
+2025-07-07 12:33:00,918 - INFO - Extracted Info for claim_3.pdf: {'claim_number': 'CLM-69099', 'policy_holder': 'Jane Smith', 'incident_date': None, 'claim_amount': '79,151', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:00,918 - INFO - Missing Fields: True
+2025-07-07 12:33:00,918 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:00,928 - INFO - Queued for review: CLM-69099 (Priority: 7)
+2025-07-07 12:33:00,929 - INFO - Successfully processed: claim_3.pdf
+2025-07-07 12:33:00,929 - INFO - Processing: claim_30.pdf
+2025-07-07 12:33:00,953 - INFO - Extracted Info for claim_30.pdf: {'claim_number': 'CLM-18673', 'policy_holder': 'Jane Smith', 'incident_date': '11/08/2025', 'claim_amount': '198,176', 'claim_type': 'Home'}
+2025-07-07 12:33:00,953 - INFO - Missing Fields: False
+2025-07-07 12:33:00,953 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,964 - INFO - Queued for review: CLM-18673 (Priority: 4)
+2025-07-07 12:33:00,965 - INFO - Successfully processed: claim_30.pdf
+2025-07-07 12:33:00,965 - INFO - Processing: claim_31.pdf
+2025-07-07 12:33:00,986 - INFO - Extracted Info for claim_31.pdf: {'claim_number': 'CLM-40841', 'policy_holder': 'Jane Smith', 'incident_date': '01/27/2025', 'claim_amount': '158,334', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:00,986 - INFO - Missing Fields: False
+2025-07-07 12:33:00,986 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:00,997 - INFO - Queued for review: CLM-40841 (Priority: 4)
+2025-07-07 12:33:00,997 - INFO - Successfully processed: claim_31.pdf
+2025-07-07 12:33:00,997 - INFO - Processing: claim_32.pdf
+2025-07-07 12:33:01,022 - INFO - Extracted Info for claim_32.pdf: {'claim_number': 'CLM-79903', 'policy_holder': 'Jane Smith', 'incident_date': '07/27/2025', 'claim_amount': '40,917', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,022 - INFO - Missing Fields: False
+2025-07-07 12:33:01,022 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,032 - INFO - Queued for review: CLM-79903 (Priority: 4)
+2025-07-07 12:33:01,032 - INFO - Successfully processed: claim_32.pdf
+2025-07-07 12:33:01,032 - INFO - Processing: claim_33.pdf
+2025-07-07 12:33:01,050 - INFO - Extracted Info for claim_33.pdf: {'claim_number': 'CLM-35058', 'policy_holder': 'Michael Chen', 'incident_date': None, 'claim_amount': '140,767', 'claim_type': 'Theft'}
+2025-07-07 12:33:01,050 - INFO - Missing Fields: True
+2025-07-07 12:33:01,050 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:01,059 - INFO - Queued for review: CLM-35058 (Priority: 10)
+2025-07-07 12:33:01,060 - INFO - Successfully processed: claim_33.pdf
+2025-07-07 12:33:01,060 - INFO - Processing: claim_34.pdf
+2025-07-07 12:33:01,083 - INFO - Extracted Info for claim_34.pdf: {'claim_number': 'CLM-31707', 'policy_holder': 'Jane Smith', 'incident_date': '04/03/2024', 'claim_amount': '185,668', 'claim_type': 'Home'}
+2025-07-07 12:33:01,083 - INFO - Missing Fields: False
+2025-07-07 12:33:01,083 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,101 - INFO - Queued for review: CLM-31707 (Priority: 4)
+2025-07-07 12:33:01,101 - INFO - Successfully processed: claim_34.pdf
+2025-07-07 12:33:01,102 - INFO - Processing: claim_35.pdf
+2025-07-07 12:33:01,139 - INFO - Extracted Info for claim_35.pdf: {'claim_number': 'CLM-44712', 'policy_holder': 'Emily Davis', 'incident_date': '08/04/2024', 'claim_amount': '79,418', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,139 - INFO - Missing Fields: False
+2025-07-07 12:33:01,139 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,157 - INFO - Queued for review: CLM-44712 (Priority: 7)
+2025-07-07 12:33:01,157 - INFO - Successfully processed: claim_35.pdf
+2025-07-07 12:33:01,157 - INFO - Processing: claim_36.pdf
+2025-07-07 12:33:01,182 - INFO - Extracted Info for claim_36.pdf: {'claim_number': 'CLM-73359', 'policy_holder': 'David Lee', 'incident_date': '02/28/2025', 'claim_amount': '177,278', 'claim_type': 'Home'}
+2025-07-07 12:33:01,182 - INFO - Missing Fields: False
+2025-07-07 12:33:01,182 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,192 - INFO - Queued for review: CLM-73359 (Priority: 4)
+2025-07-07 12:33:01,192 - INFO - Successfully processed: claim_36.pdf
+2025-07-07 12:33:01,192 - INFO - Processing: claim_37.pdf
+2025-07-07 12:33:01,213 - INFO - Extracted Info for claim_37.pdf: {'claim_number': 'CLM-64514', 'policy_holder': None, 'incident_date': '10/28/2025', 'claim_amount': '124,253', 'claim_type': 'Home'}
+2025-07-07 12:33:01,214 - INFO - Missing Fields: True
+2025-07-07 12:33:01,214 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,224 - INFO - Queued for review: CLM-64514 (Priority: 7)
+2025-07-07 12:33:01,224 - INFO - Successfully processed: claim_37.pdf
+2025-07-07 12:33:01,224 - INFO - Processing: claim_38.pdf
+2025-07-07 12:33:01,246 - INFO - Extracted Info for claim_38.pdf: {'claim_number': 'CLM-96421', 'policy_holder': 'James Taylor', 'incident_date': '05/01/2025', 'claim_amount': '162,094', 'claim_type': 'Home'}
+2025-07-07 12:33:01,246 - INFO - Missing Fields: False
+2025-07-07 12:33:01,246 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,256 - INFO - Queued for review: CLM-96421 (Priority: 4)
+2025-07-07 12:33:01,256 - INFO - Successfully processed: claim_38.pdf
+2025-07-07 12:33:01,256 - INFO - Processing: claim_39.pdf
+2025-07-07 12:33:01,277 - INFO - Extracted Info for claim_39.pdf: {'claim_number': None, 'policy_holder': 'Alex Brown', 'incident_date': '11/17/2025', 'claim_amount': '40,240', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,278 - INFO - Missing Fields: True
+2025-07-07 12:33:01,278 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,278 - ERROR - Cannot queue for review: Missing claim number
+2025-07-07 12:33:01,278 - INFO - Successfully processed: claim_39.pdf
+2025-07-07 12:33:01,278 - INFO - Processing: claim_4.pdf
+2025-07-07 12:33:01,301 - INFO - Extracted Info for claim_4.pdf: {'claim_number': 'CLM-87793', 'policy_holder': 'Emma Clark', 'incident_date': '04/22/2024', 'claim_amount': '152,453', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,302 - INFO - Missing Fields: False
+2025-07-07 12:33:01,302 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,312 - INFO - Queued for review: CLM-87793 (Priority: 7)
+2025-07-07 12:33:01,312 - INFO - Successfully processed: claim_4.pdf
+2025-07-07 12:33:01,312 - INFO - Processing: claim_40.pdf
+2025-07-07 12:33:01,334 - INFO - Extracted Info for claim_40.pdf: {'claim_number': 'CLM-31246', 'policy_holder': 'Michael Chen', 'incident_date': '01/11/2024', 'claim_amount': '61,616', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,334 - INFO - Missing Fields: False
+2025-07-07 12:33:01,334 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,345 - INFO - Queued for review: CLM-31246 (Priority: 7)
+2025-07-07 12:33:01,345 - INFO - Successfully processed: claim_40.pdf
+2025-07-07 12:33:01,345 - INFO - Processing: claim_41.pdf
+2025-07-07 12:33:01,368 - INFO - Extracted Info for claim_41.pdf: {'claim_number': 'CLM-60419', 'policy_holder': 'Jane Smith', 'incident_date': '09/01/2025', 'claim_amount': '93,009', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,369 - INFO - Missing Fields: False
+2025-07-07 12:33:01,369 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,379 - INFO - Queued for review: CLM-60419 (Priority: 4)
+2025-07-07 12:33:01,379 - INFO - Successfully processed: claim_41.pdf
+2025-07-07 12:33:01,379 - INFO - Processing: claim_42.pdf
+2025-07-07 12:33:01,402 - INFO - Extracted Info for claim_42.pdf: {'claim_number': 'CLM-69755', 'policy_holder': 'Michael Chen', 'incident_date': '10/24/2024', 'claim_amount': '42,392', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,403 - INFO - Missing Fields: False
+2025-07-07 12:33:01,403 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,413 - INFO - Queued for review: CLM-69755 (Priority: 4)
+2025-07-07 12:33:01,414 - INFO - Successfully processed: claim_42.pdf
+2025-07-07 12:33:01,414 - INFO - Processing: claim_43.pdf
+2025-07-07 12:33:01,435 - INFO - Extracted Info for claim_43.pdf: {'claim_number': 'CLM-19091', 'policy_holder': 'David Lee', 'incident_date': '11/06/2024', 'claim_amount': '145,287', 'claim_type': 'Home'}
+2025-07-07 12:33:01,435 - INFO - Missing Fields: False
+2025-07-07 12:33:01,435 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,446 - INFO - Queued for review: CLM-19091 (Priority: 4)
+2025-07-07 12:33:01,446 - INFO - Successfully processed: claim_43.pdf
+2025-07-07 12:33:01,446 - INFO - Processing: claim_44.pdf
+2025-07-07 12:33:01,470 - INFO - Extracted Info for claim_44.pdf: {'claim_number': 'CLM-64541', 'policy_holder': 'John Doe', 'incident_date': '10/01/2024', 'claim_amount': '3,849', 'claim_type': 'Home'}
+2025-07-07 12:33:01,470 - INFO - Missing Fields: False
+2025-07-07 12:33:01,470 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:01,471 - INFO - Auto-processed: CLM-64541
+2025-07-07 12:33:01,471 - INFO - Successfully processed: claim_44.pdf
+2025-07-07 12:33:01,471 - INFO - Processing: claim_45.pdf
+2025-07-07 12:33:01,495 - INFO - Extracted Info for claim_45.pdf: {'claim_number': 'CLM-34172', 'policy_holder': 'Jane Smith', 'incident_date': '07/06/2025', 'claim_amount': None, 'claim_type': 'Home'}
+2025-07-07 12:33:01,495 - INFO - Missing Fields: True
+2025-07-07 12:33:01,495 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,505 - INFO - Queued for review: CLM-34172 (Priority: 4)
+2025-07-07 12:33:01,506 - INFO - Successfully processed: claim_45.pdf
+2025-07-07 12:33:01,506 - INFO - Processing: claim_46.pdf
+2025-07-07 12:33:01,526 - INFO - Extracted Info for claim_46.pdf: {'claim_number': 'CLM-33280', 'policy_holder': None, 'incident_date': '11/16/2024', 'claim_amount': '172,314', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,526 - INFO - Missing Fields: True
+2025-07-07 12:33:01,526 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:01,537 - INFO - Queued for review: CLM-33280 (Priority: 10)
+2025-07-07 12:33:01,537 - INFO - Successfully processed: claim_46.pdf
+2025-07-07 12:33:01,537 - INFO - Processing: claim_47.pdf
+2025-07-07 12:33:01,560 - INFO - Extracted Info for claim_47.pdf: {'claim_number': 'CLM-95188', 'policy_holder': 'John Doe', 'incident_date': '11/08/2024', 'claim_amount': '198,195', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:01,560 - INFO - Missing Fields: False
+2025-07-07 12:33:01,560 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,570 - INFO - Queued for review: CLM-95188 (Priority: 4)
+2025-07-07 12:33:01,570 - INFO - Successfully processed: claim_47.pdf
+2025-07-07 12:33:01,570 - INFO - Processing: claim_48.pdf
+2025-07-07 12:33:01,591 - INFO - Extracted Info for claim_48.pdf: {'claim_number': 'CLM-46013', 'policy_holder': 'John Doe', 'incident_date': None, 'claim_amount': '11,137', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:01,591 - INFO - Missing Fields: True
+2025-07-07 12:33:01,591 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,601 - INFO - Queued for review: CLM-46013 (Priority: 4)
+2025-07-07 12:33:01,601 - INFO - Successfully processed: claim_48.pdf
+2025-07-07 12:33:01,601 - INFO - Processing: claim_49.pdf
+2025-07-07 12:33:01,625 - INFO - Extracted Info for claim_49.pdf: {'claim_number': 'CLM-53791', 'policy_holder': 'Michael Chen', 'incident_date': '01/30/2024', 'claim_amount': '35,337', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,625 - INFO - Missing Fields: False
+2025-07-07 12:33:01,625 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,636 - INFO - Queued for review: CLM-53791 (Priority: 4)
+2025-07-07 12:33:01,636 - INFO - Successfully processed: claim_49.pdf
+2025-07-07 12:33:01,636 - INFO - Processing: claim_5.pdf
+2025-07-07 12:33:01,658 - INFO - Extracted Info for claim_5.pdf: {'claim_number': 'CLM-11599', 'policy_holder': 'Jane Smith', 'incident_date': '12/04/2024', 'claim_amount': '95,526', 'claim_type': 'Medical'}
+2025-07-07 12:33:01,658 - INFO - Missing Fields: False
+2025-07-07 12:33:01,658 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,670 - INFO - Queued for review: CLM-11599 (Priority: 7)
+2025-07-07 12:33:01,670 - INFO - Successfully processed: claim_5.pdf
+2025-07-07 12:33:01,670 - INFO - Processing: claim_50.pdf
+2025-07-07 12:33:01,697 - INFO - Extracted Info for claim_50.pdf: {'claim_number': 'CLM-83202', 'policy_holder': 'James Taylor', 'incident_date': '06/25/2024', 'claim_amount': '126,133', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:01,697 - INFO - Missing Fields: False
+2025-07-07 12:33:01,697 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,707 - INFO - Queued for review: CLM-83202 (Priority: 4)
+2025-07-07 12:33:01,708 - INFO - Successfully processed: claim_50.pdf
+2025-07-07 12:33:01,708 - INFO - Processing: claim_51.pdf
+2025-07-07 12:33:01,729 - INFO - Extracted Info for claim_51.pdf: {'claim_number': 'CLM-90584', 'policy_holder': 'Jane Smith', 'incident_date': '03/11/2024', 'claim_amount': '142,685', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:01,729 - INFO - Missing Fields: False
+2025-07-07 12:33:01,730 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,740 - INFO - Queued for review: CLM-90584 (Priority: 4)
+2025-07-07 12:33:01,740 - INFO - Successfully processed: claim_51.pdf
+2025-07-07 12:33:01,740 - INFO - Processing: claim_52.pdf
+2025-07-07 12:33:01,764 - INFO - Extracted Info for claim_52.pdf: {'claim_number': 'CLM-27118', 'policy_holder': 'David Lee', 'incident_date': '06/30/2025', 'claim_amount': None, 'claim_type': 'Medical'}
+2025-07-07 12:33:01,765 - INFO - Missing Fields: True
+2025-07-07 12:33:01,765 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,775 - INFO - Queued for review: CLM-27118 (Priority: 7)
+2025-07-07 12:33:01,775 - INFO - Successfully processed: claim_52.pdf
+2025-07-07 12:33:01,776 - INFO - Processing: claim_53.pdf
+2025-07-07 12:33:01,798 - INFO - Extracted Info for claim_53.pdf: {'claim_number': 'CLM-42085', 'policy_holder': 'Emily Davis', 'incident_date': '10/05/2024', 'claim_amount': '167,978', 'claim_type': 'Home'}
+2025-07-07 12:33:01,799 - INFO - Missing Fields: False
+2025-07-07 12:33:01,799 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,809 - INFO - Queued for review: CLM-42085 (Priority: 4)
+2025-07-07 12:33:01,810 - INFO - Successfully processed: claim_53.pdf
+2025-07-07 12:33:01,810 - INFO - Processing: claim_54.pdf
+2025-07-07 12:33:01,837 - INFO - Extracted Info for claim_54.pdf: {'claim_number': 'CLM-75611', 'policy_holder': 'Michael Chen', 'incident_date': '09/08/2024', 'claim_amount': '49,057', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,838 - INFO - Missing Fields: False
+2025-07-07 12:33:01,838 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:01,839 - INFO - Auto-processed: CLM-75611
+2025-07-07 12:33:01,839 - INFO - Successfully processed: claim_54.pdf
+2025-07-07 12:33:01,839 - INFO - Processing: claim_55.pdf
+2025-07-07 12:33:01,861 - INFO - Extracted Info for claim_55.pdf: {'claim_number': 'CLM-84812', 'policy_holder': 'Alex Brown', 'incident_date': '02/24/2024', 'claim_amount': None, 'claim_type': 'Theft'}
+2025-07-07 12:33:01,861 - INFO - Missing Fields: True
+2025-07-07 12:33:01,861 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,872 - INFO - Queued for review: CLM-84812 (Priority: 7)
+2025-07-07 12:33:01,872 - INFO - Successfully processed: claim_55.pdf
+2025-07-07 12:33:01,872 - INFO - Processing: claim_56.pdf
+2025-07-07 12:33:01,896 - INFO - Extracted Info for claim_56.pdf: {'claim_number': 'CLM-58365', 'policy_holder': 'Emma Clark', 'incident_date': '05/05/2024', 'claim_amount': None, 'claim_type': 'Home'}
+2025-07-07 12:33:01,896 - INFO - Missing Fields: True
+2025-07-07 12:33:01,896 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,911 - INFO - Queued for review: CLM-58365 (Priority: 4)
+2025-07-07 12:33:01,911 - INFO - Successfully processed: claim_56.pdf
+2025-07-07 12:33:01,911 - INFO - Processing: claim_57.pdf
+2025-07-07 12:33:01,934 - INFO - Extracted Info for claim_57.pdf: {'claim_number': None, 'policy_holder': 'Jane Smith', 'incident_date': '06/27/2024', 'claim_amount': '145,162', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,934 - INFO - Missing Fields: True
+2025-07-07 12:33:01,934 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:01,934 - ERROR - Cannot queue for review: Missing claim number
+2025-07-07 12:33:01,934 - INFO - Successfully processed: claim_57.pdf
+2025-07-07 12:33:01,934 - INFO - Processing: claim_58.pdf
+2025-07-07 12:33:01,960 - INFO - Extracted Info for claim_58.pdf: {'claim_number': 'CLM-90430', 'policy_holder': 'John Doe', 'incident_date': '03/31/2025', 'claim_amount': '27,982', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,960 - INFO - Missing Fields: False
+2025-07-07 12:33:01,960 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:01,961 - INFO - Auto-processed: CLM-90430
+2025-07-07 12:33:01,962 - INFO - Successfully processed: claim_58.pdf
+2025-07-07 12:33:01,962 - INFO - Processing: claim_59.pdf
+2025-07-07 12:33:01,987 - INFO - Extracted Info for claim_59.pdf: {'claim_number': 'CLM-28461', 'policy_holder': 'Sarah Wilson', 'incident_date': '10/14/2025', 'claim_amount': '152,978', 'claim_type': 'Travel'}
+2025-07-07 12:33:01,987 - INFO - Missing Fields: False
+2025-07-07 12:33:01,987 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:01,999 - INFO - Queued for review: CLM-28461 (Priority: 4)
+2025-07-07 12:33:02,000 - INFO - Successfully processed: claim_59.pdf
+2025-07-07 12:33:02,000 - INFO - Processing: claim_6.pdf
+2025-07-07 12:33:02,021 - INFO - Extracted Info for claim_6.pdf: {'claim_number': 'CLM-35104', 'policy_holder': None, 'incident_date': '08/01/2024', 'claim_amount': '192,528', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,021 - INFO - Missing Fields: True
+2025-07-07 12:33:02,021 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,033 - INFO - Queued for review: CLM-35104 (Priority: 7)
+2025-07-07 12:33:02,033 - INFO - Successfully processed: claim_6.pdf
+2025-07-07 12:33:02,033 - INFO - Processing: claim_60.pdf
+2025-07-07 12:33:02,056 - INFO - Extracted Info for claim_60.pdf: {'claim_number': 'CLM-30569', 'policy_holder': 'John Doe', 'incident_date': '10/21/2024', 'claim_amount': '12,442', 'claim_type': 'Home'}
+2025-07-07 12:33:02,056 - INFO - Missing Fields: False
+2025-07-07 12:33:02,056 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:02,057 - INFO - Auto-processed: CLM-30569
+2025-07-07 12:33:02,057 - INFO - Successfully processed: claim_60.pdf
+2025-07-07 12:33:02,057 - INFO - Processing: claim_61.pdf
+2025-07-07 12:33:02,083 - INFO - Extracted Info for claim_61.pdf: {'claim_number': 'CLM-28041', 'policy_holder': 'Michael Chen', 'incident_date': '06/24/2024', 'claim_amount': '173,726', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,083 - INFO - Missing Fields: False
+2025-07-07 12:33:02,083 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,099 - INFO - Queued for review: CLM-28041 (Priority: 4)
+2025-07-07 12:33:02,099 - INFO - Successfully processed: claim_61.pdf
+2025-07-07 12:33:02,099 - INFO - Processing: claim_62.pdf
+2025-07-07 12:33:02,122 - INFO - Extracted Info for claim_62.pdf: {'claim_number': 'CLM-49412', 'policy_holder': None, 'incident_date': '02/29/2024', 'claim_amount': '48,203', 'claim_type': 'Home'}
+2025-07-07 12:33:02,122 - INFO - Missing Fields: True
+2025-07-07 12:33:02,122 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,135 - INFO - Queued for review: CLM-49412 (Priority: 4)
+2025-07-07 12:33:02,135 - INFO - Successfully processed: claim_62.pdf
+2025-07-07 12:33:02,135 - INFO - Processing: claim_63.pdf
+2025-07-07 12:33:02,157 - INFO - Extracted Info for claim_63.pdf: {'claim_number': 'CLM-42598', 'policy_holder': 'Laura Martinez', 'incident_date': '05/30/2024', 'claim_amount': '39,585', 'claim_type': 'Home'}
+2025-07-07 12:33:02,157 - INFO - Missing Fields: False
+2025-07-07 12:33:02,157 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:02,158 - INFO - Auto-processed: CLM-42598
+2025-07-07 12:33:02,158 - INFO - Successfully processed: claim_63.pdf
+2025-07-07 12:33:02,158 - INFO - Processing: claim_64.pdf
+2025-07-07 12:33:02,182 - INFO - Extracted Info for claim_64.pdf: {'claim_number': 'CLM-82147', 'policy_holder': 'Emma Clark', 'incident_date': '01/13/2025', 'claim_amount': '139,732', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,182 - INFO - Missing Fields: False
+2025-07-07 12:33:02,182 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,193 - INFO - Queued for review: CLM-82147 (Priority: 4)
+2025-07-07 12:33:02,194 - INFO - Successfully processed: claim_64.pdf
+2025-07-07 12:33:02,194 - INFO - Processing: claim_65.pdf
+2025-07-07 12:33:02,217 - INFO - Extracted Info for claim_65.pdf: {'claim_number': 'CLM-94512', 'policy_holder': 'Emma Clark', 'incident_date': '03/20/2024', 'claim_amount': '82,571', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,217 - INFO - Missing Fields: False
+2025-07-07 12:33:02,217 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,228 - INFO - Queued for review: CLM-94512 (Priority: 7)
+2025-07-07 12:33:02,228 - INFO - Successfully processed: claim_65.pdf
+2025-07-07 12:33:02,228 - INFO - Processing: claim_66.pdf
+2025-07-07 12:33:02,248 - INFO - Extracted Info for claim_66.pdf: {'claim_number': 'CLM-99178', 'policy_holder': 'Jane Smith', 'incident_date': '04/12/2024', 'claim_amount': '104,312', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,248 - INFO - Missing Fields: False
+2025-07-07 12:33:02,248 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,258 - INFO - Queued for review: CLM-99178 (Priority: 4)
+2025-07-07 12:33:02,258 - INFO - Successfully processed: claim_66.pdf
+2025-07-07 12:33:02,258 - INFO - Processing: claim_67.pdf
+2025-07-07 12:33:02,278 - INFO - Extracted Info for claim_67.pdf: {'claim_number': 'CLM-22798', 'policy_holder': 'James Taylor', 'incident_date': '06/07/2024', 'claim_amount': '131,177', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,278 - INFO - Missing Fields: False
+2025-07-07 12:33:02,278 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,288 - INFO - Queued for review: CLM-22798 (Priority: 4)
+2025-07-07 12:33:02,288 - INFO - Successfully processed: claim_67.pdf
+2025-07-07 12:33:02,288 - INFO - Processing: claim_68.pdf
+2025-07-07 12:33:02,312 - INFO - Extracted Info for claim_68.pdf: {'claim_number': 'CLM-88781', 'policy_holder': None, 'incident_date': '07/04/2024', 'claim_amount': '97,065', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,312 - INFO - Missing Fields: True
+2025-07-07 12:33:02,312 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,322 - INFO - Queued for review: CLM-88781 (Priority: 7)
+2025-07-07 12:33:02,322 - INFO - Successfully processed: claim_68.pdf
+2025-07-07 12:33:02,322 - INFO - Processing: claim_69.pdf
+2025-07-07 12:33:02,345 - INFO - Extracted Info for claim_69.pdf: {'claim_number': 'CLM-32085', 'policy_holder': 'Sarah Wilson', 'incident_date': '06/18/2024', 'claim_amount': '69,334', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,345 - INFO - Missing Fields: False
+2025-07-07 12:33:02,345 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,355 - INFO - Queued for review: CLM-32085 (Priority: 4)
+2025-07-07 12:33:02,355 - INFO - Successfully processed: claim_69.pdf
+2025-07-07 12:33:02,356 - INFO - Processing: claim_7.pdf
+2025-07-07 12:33:02,377 - INFO - Extracted Info for claim_7.pdf: {'claim_number': 'CLM-11267', 'policy_holder': 'Michael Chen', 'incident_date': '09/14/2024', 'claim_amount': '39,316', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,377 - INFO - Missing Fields: False
+2025-07-07 12:33:02,377 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,387 - INFO - Queued for review: CLM-11267 (Priority: 4)
+2025-07-07 12:33:02,387 - INFO - Successfully processed: claim_7.pdf
+2025-07-07 12:33:02,387 - INFO - Processing: claim_70.pdf
+2025-07-07 12:33:02,409 - INFO - Extracted Info for claim_70.pdf: {'claim_number': 'CLM-51756', 'policy_holder': 'James Taylor', 'incident_date': '02/04/2025', 'claim_amount': '35,754', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,410 - INFO - Missing Fields: False
+2025-07-07 12:33:02,410 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,420 - INFO - Queued for review: CLM-51756 (Priority: 4)
+2025-07-07 12:33:02,420 - INFO - Successfully processed: claim_70.pdf
+2025-07-07 12:33:02,420 - INFO - Processing: claim_71.pdf
+2025-07-07 12:33:02,442 - INFO - Extracted Info for claim_71.pdf: {'claim_number': 'CLM-20186', 'policy_holder': 'James Taylor', 'incident_date': '05/22/2024', 'claim_amount': '67,251', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,442 - INFO - Missing Fields: False
+2025-07-07 12:33:02,442 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,452 - INFO - Queued for review: CLM-20186 (Priority: 4)
+2025-07-07 12:33:02,452 - INFO - Successfully processed: claim_71.pdf
+2025-07-07 12:33:02,453 - INFO - Processing: claim_72.pdf
+2025-07-07 12:33:02,470 - INFO - Extracted Info for claim_72.pdf: {'claim_number': 'CLM-50367', 'policy_holder': None, 'incident_date': None, 'claim_amount': '167,089', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,470 - INFO - Missing Fields: True
+2025-07-07 12:33:02,470 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,481 - INFO - Queued for review: CLM-50367 (Priority: 7)
+2025-07-07 12:33:02,481 - INFO - Successfully processed: claim_72.pdf
+2025-07-07 12:33:02,481 - INFO - Processing: claim_73.pdf
+2025-07-07 12:33:02,504 - INFO - Extracted Info for claim_73.pdf: {'claim_number': 'CLM-21822', 'policy_holder': 'Michael Chen', 'incident_date': '07/08/2024', 'claim_amount': '88,632', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,504 - INFO - Missing Fields: False
+2025-07-07 12:33:02,504 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,514 - INFO - Queued for review: CLM-21822 (Priority: 4)
+2025-07-07 12:33:02,515 - INFO - Successfully processed: claim_73.pdf
+2025-07-07 12:33:02,515 - INFO - Processing: claim_74.pdf
+2025-07-07 12:33:02,537 - INFO - Extracted Info for claim_74.pdf: {'claim_number': 'CLM-97468', 'policy_holder': 'John Doe', 'incident_date': None, 'claim_amount': '140,468', 'claim_type': 'Home'}
+2025-07-07 12:33:02,537 - INFO - Missing Fields: True
+2025-07-07 12:33:02,537 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,548 - INFO - Queued for review: CLM-97468 (Priority: 7)
+2025-07-07 12:33:02,549 - INFO - Successfully processed: claim_74.pdf
+2025-07-07 12:33:02,549 - INFO - Processing: claim_75.pdf
+2025-07-07 12:33:02,571 - INFO - Extracted Info for claim_75.pdf: {'claim_number': 'CLM-99365', 'policy_holder': 'John Doe', 'incident_date': '11/25/2024', 'claim_amount': '114,840', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,571 - INFO - Missing Fields: False
+2025-07-07 12:33:02,572 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,586 - INFO - Queued for review: CLM-99365 (Priority: 7)
+2025-07-07 12:33:02,586 - INFO - Successfully processed: claim_75.pdf
+2025-07-07 12:33:02,586 - INFO - Processing: claim_76.pdf
+2025-07-07 12:33:02,610 - INFO - Extracted Info for claim_76.pdf: {'claim_number': 'CLM-27716', 'policy_holder': 'Alex Brown', 'incident_date': '02/08/2025', 'claim_amount': '29,514', 'claim_type': 'Theft'}
+2025-07-07 12:33:02,610 - INFO - Missing Fields: False
+2025-07-07 12:33:02,610 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,622 - INFO - Queued for review: CLM-27716 (Priority: 4)
+2025-07-07 12:33:02,622 - INFO - Successfully processed: claim_76.pdf
+2025-07-07 12:33:02,622 - INFO - Processing: claim_77.pdf
+2025-07-07 12:33:02,646 - INFO - Extracted Info for claim_77.pdf: {'claim_number': None, 'policy_holder': 'John Doe', 'incident_date': '04/26/2024', 'claim_amount': '20,236', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,646 - INFO - Missing Fields: True
+2025-07-07 12:33:02,646 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,646 - ERROR - Cannot queue for review: Missing claim number
+2025-07-07 12:33:02,646 - INFO - Successfully processed: claim_77.pdf
+2025-07-07 12:33:02,646 - INFO - Processing: claim_78.pdf
+2025-07-07 12:33:02,671 - INFO - Extracted Info for claim_78.pdf: {'claim_number': 'CLM-67453', 'policy_holder': 'Jane Smith', 'incident_date': '12/19/2025', 'claim_amount': '98,007', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,672 - INFO - Missing Fields: False
+2025-07-07 12:33:02,672 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,684 - INFO - Queued for review: CLM-67453 (Priority: 4)
+2025-07-07 12:33:02,685 - INFO - Successfully processed: claim_78.pdf
+2025-07-07 12:33:02,685 - INFO - Processing: claim_79.pdf
+2025-07-07 12:33:02,707 - INFO - Extracted Info for claim_79.pdf: {'claim_number': 'CLM-43980', 'policy_holder': 'Jane Smith', 'incident_date': '10/31/2025', 'claim_amount': '96,845', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,707 - INFO - Missing Fields: False
+2025-07-07 12:33:02,707 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,719 - INFO - Queued for review: CLM-43980 (Priority: 7)
+2025-07-07 12:33:02,719 - INFO - Successfully processed: claim_79.pdf
+2025-07-07 12:33:02,719 - INFO - Processing: claim_8.pdf
+2025-07-07 12:33:02,742 - INFO - Extracted Info for claim_8.pdf: {'claim_number': 'CLM-67787', 'policy_holder': 'Emma Clark', 'incident_date': '10/05/2025', 'claim_amount': '163,971', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:02,742 - INFO - Missing Fields: False
+2025-07-07 12:33:02,743 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,755 - INFO - Queued for review: CLM-67787 (Priority: 4)
+2025-07-07 12:33:02,755 - INFO - Successfully processed: claim_8.pdf
+2025-07-07 12:33:02,755 - INFO - Processing: claim_80.pdf
+2025-07-07 12:33:02,773 - INFO - Extracted Info for claim_80.pdf: {'claim_number': 'CLM-17539', 'policy_holder': 'Jane Smith', 'incident_date': '01/03/2025', 'claim_amount': None, 'claim_type': 'Travel'}
+2025-07-07 12:33:02,773 - INFO - Missing Fields: True
+2025-07-07 12:33:02,774 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,784 - INFO - Queued for review: CLM-17539 (Priority: 4)
+2025-07-07 12:33:02,784 - INFO - Successfully processed: claim_80.pdf
+2025-07-07 12:33:02,784 - INFO - Processing: claim_81.pdf
+2025-07-07 12:33:02,804 - INFO - Extracted Info for claim_81.pdf: {'claim_number': 'CLM-83042', 'policy_holder': 'Jane Smith', 'incident_date': '11/29/2025', 'claim_amount': '86,968', 'claim_type': 'Travel'}
+2025-07-07 12:33:02,804 - INFO - Missing Fields: False
+2025-07-07 12:33:02,804 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,816 - INFO - Queued for review: CLM-83042 (Priority: 4)
+2025-07-07 12:33:02,817 - INFO - Successfully processed: claim_81.pdf
+2025-07-07 12:33:02,817 - INFO - Processing: claim_82.pdf
+2025-07-07 12:33:02,837 - INFO - Extracted Info for claim_82.pdf: {'claim_number': 'CLM-63285', 'policy_holder': 'Sarah Wilson', 'incident_date': '06/06/2024', 'claim_amount': None, 'claim_type': 'Travel'}
+2025-07-07 12:33:02,837 - INFO - Missing Fields: True
+2025-07-07 12:33:02,837 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,849 - INFO - Queued for review: CLM-63285 (Priority: 4)
+2025-07-07 12:33:02,849 - INFO - Successfully processed: claim_82.pdf
+2025-07-07 12:33:02,849 - INFO - Processing: claim_83.pdf
+2025-07-07 12:33:02,871 - INFO - Extracted Info for claim_83.pdf: {'claim_number': 'CLM-63175', 'policy_holder': 'Michael Chen', 'incident_date': '11/18/2025', 'claim_amount': '28,413', 'claim_type': 'Home'}
+2025-07-07 12:33:02,871 - INFO - Missing Fields: False
+2025-07-07 12:33:02,871 - INFO - Complex Claim: False, Priority Score: 1
+2025-07-07 12:33:02,872 - INFO - Auto-processed: CLM-63175
+2025-07-07 12:33:02,872 - INFO - Successfully processed: claim_83.pdf
+2025-07-07 12:33:02,872 - INFO - Processing: claim_84.pdf
+2025-07-07 12:33:02,893 - INFO - Extracted Info for claim_84.pdf: {'claim_number': 'CLM-34160', 'policy_holder': 'John Doe', 'incident_date': '10/05/2025', 'claim_amount': '30,493', 'claim_type': 'Theft'}
+2025-07-07 12:33:02,893 - INFO - Missing Fields: False
+2025-07-07 12:33:02,893 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:02,904 - INFO - Queued for review: CLM-34160 (Priority: 4)
+2025-07-07 12:33:02,905 - INFO - Successfully processed: claim_84.pdf
+2025-07-07 12:33:02,905 - INFO - Processing: claim_85.pdf
+2025-07-07 12:33:02,926 - INFO - Extracted Info for claim_85.pdf: {'claim_number': 'CLM-13940', 'policy_holder': 'Alex Brown', 'incident_date': '02/01/2025', 'claim_amount': '94,034', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,926 - INFO - Missing Fields: False
+2025-07-07 12:33:02,926 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,936 - INFO - Queued for review: CLM-13940 (Priority: 7)
+2025-07-07 12:33:02,936 - INFO - Successfully processed: claim_85.pdf
+2025-07-07 12:33:02,936 - INFO - Processing: claim_86.pdf
+2025-07-07 12:33:02,956 - INFO - Extracted Info for claim_86.pdf: {'claim_number': 'CLM-87168', 'policy_holder': 'Alex Brown', 'incident_date': '09/29/2025', 'claim_amount': '169,826', 'claim_type': 'Theft'}
+2025-07-07 12:33:02,956 - INFO - Missing Fields: False
+2025-07-07 12:33:02,956 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:02,972 - INFO - Queued for review: CLM-87168 (Priority: 7)
+2025-07-07 12:33:02,972 - INFO - Successfully processed: claim_86.pdf
+2025-07-07 12:33:02,972 - INFO - Processing: claim_87.pdf
+2025-07-07 12:33:02,992 - INFO - Extracted Info for claim_87.pdf: {'claim_number': 'CLM-86386', 'policy_holder': 'Jane Smith', 'incident_date': None, 'claim_amount': '92,261', 'claim_type': 'Medical'}
+2025-07-07 12:33:02,992 - INFO - Missing Fields: True
+2025-07-07 12:33:02,993 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:03,005 - INFO - Queued for review: CLM-86386 (Priority: 10)
+2025-07-07 12:33:03,005 - INFO - Successfully processed: claim_87.pdf
+2025-07-07 12:33:03,005 - INFO - Processing: claim_88.pdf
+2025-07-07 12:33:03,027 - INFO - Extracted Info for claim_88.pdf: {'claim_number': 'CLM-14368', 'policy_holder': 'James Taylor', 'incident_date': '10/24/2025', 'claim_amount': '87,574', 'claim_type': 'Travel'}
+2025-07-07 12:33:03,027 - INFO - Missing Fields: False
+2025-07-07 12:33:03,027 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,039 - INFO - Queued for review: CLM-14368 (Priority: 4)
+2025-07-07 12:33:03,039 - INFO - Successfully processed: claim_88.pdf
+2025-07-07 12:33:03,039 - INFO - Processing: claim_89.pdf
+2025-07-07 12:33:03,061 - INFO - Extracted Info for claim_89.pdf: {'claim_number': 'CLM-41477', 'policy_holder': 'Laura Martinez', 'incident_date': '09/27/2024', 'claim_amount': '154,334', 'claim_type': 'Medical'}
+2025-07-07 12:33:03,061 - INFO - Missing Fields: False
+2025-07-07 12:33:03,061 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:03,072 - INFO - Queued for review: CLM-41477 (Priority: 7)
+2025-07-07 12:33:03,072 - INFO - Successfully processed: claim_89.pdf
+2025-07-07 12:33:03,072 - INFO - Processing: claim_9.pdf
+2025-07-07 12:33:03,090 - INFO - Extracted Info for claim_9.pdf: {'claim_number': None, 'policy_holder': None, 'incident_date': '08/28/2024', 'claim_amount': '30,522', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:03,090 - INFO - Missing Fields: True
+2025-07-07 12:33:03,090 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,090 - ERROR - Cannot queue for review: Missing claim number
+2025-07-07 12:33:03,090 - INFO - Successfully processed: claim_9.pdf
+2025-07-07 12:33:03,091 - INFO - Processing: claim_90.pdf
+2025-07-07 12:33:03,116 - INFO - Extracted Info for claim_90.pdf: {'claim_number': 'CLM-93730', 'policy_holder': 'Emily Davis', 'incident_date': '10/01/2025', 'claim_amount': '97,142', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:03,116 - INFO - Missing Fields: False
+2025-07-07 12:33:03,116 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,126 - INFO - Queued for review: CLM-93730 (Priority: 4)
+2025-07-07 12:33:03,126 - INFO - Successfully processed: claim_90.pdf
+2025-07-07 12:33:03,126 - INFO - Processing: claim_91.pdf
+2025-07-07 12:33:03,148 - INFO - Extracted Info for claim_91.pdf: {'claim_number': 'CLM-56110', 'policy_holder': 'James Taylor', 'incident_date': None, 'claim_amount': '9,215', 'claim_type': 'Vehicle'}
+2025-07-07 12:33:03,148 - INFO - Missing Fields: True
+2025-07-07 12:33:03,148 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,161 - INFO - Queued for review: CLM-56110 (Priority: 4)
+2025-07-07 12:33:03,161 - INFO - Successfully processed: claim_91.pdf
+2025-07-07 12:33:03,161 - INFO - Processing: claim_92.pdf
+2025-07-07 12:33:03,186 - INFO - Extracted Info for claim_92.pdf: {'claim_number': 'CLM-35463', 'policy_holder': 'Michael Chen', 'incident_date': '11/02/2025', 'claim_amount': '100,157', 'claim_type': 'Home'}
+2025-07-07 12:33:03,186 - INFO - Missing Fields: False
+2025-07-07 12:33:03,186 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,200 - INFO - Queued for review: CLM-35463 (Priority: 4)
+2025-07-07 12:33:03,200 - INFO - Successfully processed: claim_92.pdf
+2025-07-07 12:33:03,200 - INFO - Processing: claim_93.pdf
+2025-07-07 12:33:03,224 - INFO - Extracted Info for claim_93.pdf: {'claim_number': 'CLM-18055', 'policy_holder': 'Jane Smith', 'incident_date': '09/21/2024', 'claim_amount': '91,808', 'claim_type': 'Home'}
+2025-07-07 12:33:03,224 - INFO - Missing Fields: False
+2025-07-07 12:33:03,224 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,239 - INFO - Queued for review: CLM-18055 (Priority: 4)
+2025-07-07 12:33:03,239 - INFO - Successfully processed: claim_93.pdf
+2025-07-07 12:33:03,239 - INFO - Processing: claim_94.pdf
+2025-07-07 12:33:03,265 - INFO - Extracted Info for claim_94.pdf: {'claim_number': 'CLM-63396', 'policy_holder': 'David Lee', 'incident_date': '08/28/2025', 'claim_amount': '1,041', 'claim_type': 'Medical'}
+2025-07-07 12:33:03,265 - INFO - Missing Fields: False
+2025-07-07 12:33:03,265 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,277 - INFO - Queued for review: CLM-63396 (Priority: 4)
+2025-07-07 12:33:03,277 - INFO - Successfully processed: claim_94.pdf
+2025-07-07 12:33:03,277 - INFO - Processing: claim_95.pdf
+2025-07-07 12:33:03,303 - INFO - Extracted Info for claim_95.pdf: {'claim_number': 'CLM-75683', 'policy_holder': 'Emma Clark', 'incident_date': '03/14/2025', 'claim_amount': '156,743', 'claim_type': 'Travel'}
+2025-07-07 12:33:03,303 - INFO - Missing Fields: False
+2025-07-07 12:33:03,303 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,317 - INFO - Queued for review: CLM-75683 (Priority: 4)
+2025-07-07 12:33:03,317 - INFO - Successfully processed: claim_95.pdf
+2025-07-07 12:33:03,317 - INFO - Processing: claim_96.pdf
+2025-07-07 12:33:03,337 - INFO - Extracted Info for claim_96.pdf: {'claim_number': 'CLM-31235', 'policy_holder': 'Emily Davis', 'incident_date': None, 'claim_amount': '93,701', 'claim_type': 'Travel'}
+2025-07-07 12:33:03,338 - INFO - Missing Fields: True
+2025-07-07 12:33:03,338 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:03,350 - INFO - Queued for review: CLM-31235 (Priority: 7)
+2025-07-07 12:33:03,350 - INFO - Successfully processed: claim_96.pdf
+2025-07-07 12:33:03,350 - INFO - Processing: claim_97.pdf
+2025-07-07 12:33:03,377 - INFO - Extracted Info for claim_97.pdf: {'claim_number': 'CLM-64897', 'policy_holder': None, 'incident_date': '03/15/2025', 'claim_amount': '182,450', 'claim_type': 'Home'}
+2025-07-07 12:33:03,377 - INFO - Missing Fields: True
+2025-07-07 12:33:03,377 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:03,391 - INFO - Queued for review: CLM-64897 (Priority: 7)
+2025-07-07 12:33:03,391 - INFO - Successfully processed: claim_97.pdf
+2025-07-07 12:33:03,391 - INFO - Processing: claim_98.pdf
+2025-07-07 12:33:03,411 - INFO - Extracted Info for claim_98.pdf: {'claim_number': None, 'policy_holder': 'Laura Martinez', 'incident_date': '03/23/2025', 'claim_amount': '3,219', 'claim_type': 'Travel'}
+2025-07-07 12:33:03,411 - INFO - Missing Fields: True
+2025-07-07 12:33:03,411 - INFO - Complex Claim: True, Priority Score: 4
+2025-07-07 12:33:03,411 - ERROR - Cannot queue for review: Missing claim number
+2025-07-07 12:33:03,411 - INFO - Successfully processed: claim_98.pdf
+2025-07-07 12:33:03,411 - INFO - Processing: claim_99.pdf
+2025-07-07 12:33:03,434 - INFO - Extracted Info for claim_99.pdf: {'claim_number': 'CLM-49479', 'policy_holder': 'Michael Chen', 'incident_date': None, 'claim_amount': '107,534', 'claim_type': 'Medical'}
+2025-07-07 12:33:03,435 - INFO - Missing Fields: True
+2025-07-07 12:33:03,435 - INFO - Complex Claim: True, Priority Score: 10
+2025-07-07 12:33:03,445 - INFO - Queued for review: CLM-49479 (Priority: 10)
+2025-07-07 12:33:03,446 - INFO - Successfully processed: claim_99.pdf
+2025-07-07 12:33:03,446 - INFO - Processing: sample.pdf
+2025-07-07 12:33:03,510 - INFO - Skipping sample.pdf: Not a claim document (Type: guide)
+2025-07-07 12:33:03,510 - INFO - Processing: sample_claim.pdf
+2025-07-07 12:33:03,522 - INFO - Extracted Info for sample_claim.pdf: {'claim_number': 'CLM-98765', 'policy_holder': 'Jane Smith', 'incident_date': '06/30/2025', 'claim_amount': '100,000', 'claim_type': 'Medical'}
+2025-07-07 12:33:03,523 - INFO - Missing Fields: False
+2025-07-07 12:33:03,523 - INFO - Complex Claim: True, Priority Score: 7
+2025-07-07 12:33:03,534 - INFO - Queued for review: CLM-98765 (Priority: 7)
+2025-07-07 12:33:03,534 - INFO - Successfully processed: sample_claim.pdf

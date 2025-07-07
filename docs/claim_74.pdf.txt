@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-97468
+Policy Holder: John Doe
+Claim Amount: $140,468
+Claim Type: Home
+Description: Hospitalization due to emergency surgery
+Documentation: Police report and repair estimate attached
+1

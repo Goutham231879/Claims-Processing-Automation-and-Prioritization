@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-40841
+Policy Holder: Jane Smith
+Date of Incident: 01/27/2025
+Claim Amount: $158,334
+Claim Type: Vehicle
+Description: Flight cancellation due to weather
+Documentation: Travel itinerary and refund request attached
+1

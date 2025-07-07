@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-18673
+Policy Holder: Jane Smith
+Date of Incident: 11/08/2025
+Claim Amount: $198,176
+Claim Type: Home
+Description: Hospitalization due to emergency surgery
+Documentation: Police report and repair estimate attached
+1

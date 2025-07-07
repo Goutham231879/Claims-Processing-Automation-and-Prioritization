@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-76980
+Policy Holder: Jane Smith
+Date of Incident: 05/13/2024
+Claim Amount: $86,627
+Claim Type: Medical
+Description: Water damage to home
+Documentation: Receipts and photos attached
+1

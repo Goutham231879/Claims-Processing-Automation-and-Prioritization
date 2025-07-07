@@ -1,0 +1,7 @@
+Insurance Claim Form
+Claim Number: CLM-31235
+Policy Holder: Emily Davis
+Claim Amount: $93,701
+Description: Car accident with minor damage
+Documentation: Travel itinerary and refund request attached
+1

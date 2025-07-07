@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-35104
+Date of Incident: 08/01/2024
+Claim Amount: $192,528
+Claim Type: Travel
+Description: Car accident with minor damage
+Documentation: Police report and repair estimate attached
+1

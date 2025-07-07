@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-73881
+Policy Holder: James Taylor
+Claim Amount: $89,624
+Claim Type: Medical
+Description: Hospitalization due to emergency surgery
+Documentation: Receipts and photos attached
+1

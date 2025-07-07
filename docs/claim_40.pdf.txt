@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-31246
+Policy Holder: Michael Chen
+Date of Incident: 01/11/2024
+Claim Amount: $61,616
+Claim Type: Home
+Description: Flight cancellation due to weather
+Documentation: Medical bills and hospital records attached
+1

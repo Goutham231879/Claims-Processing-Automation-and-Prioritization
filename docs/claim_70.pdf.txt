@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-51756
+Policy Holder: James Taylor
+Date of Incident: 02/04/2025
+Claim Amount: $35,754
+Claim Type: Medical
+Description: Flight cancellation due to weather
+Documentation: Medical bills and hospital records attached
+1

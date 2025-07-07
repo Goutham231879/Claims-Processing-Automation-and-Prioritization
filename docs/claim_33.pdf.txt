@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-35058
+Policy Holder: Michael Chen
+Claim Amount: $140,767
+Claim Type: Theft
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

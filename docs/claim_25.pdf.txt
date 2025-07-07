@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-67575
+Policy Holder: Sarah Wilson
+Claim Amount: $75,496
+Claim Type: Medical
+Description: Hospitalization due to emergency surgery
+Documentation: Receipts and photos attached
+1

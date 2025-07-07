@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-87168
+Policy Holder: Alex Brown
+Date of Incident: 09/29/2025
+Claim Amount: $169,826
+Claim Type: Theft
+Description: Car accident with minor damage
+Documentation: Receipts and photos attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-67787
+Policy Holder: Emma Clark
+Date of Incident: 10/05/2025
+Claim Amount: $163,971
+Claim Type: Vehicle
+Description: Water damage to home
+Documentation: Contractor estimate attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-32821
+Policy Holder: Emma Clark
+Date of Incident: 01/02/2024
+Claim Amount: $185,597
+Claim Type: Travel
+Description: Hospitalization due to emergency surgery
+Documentation: Travel itinerary and refund request attached
+1

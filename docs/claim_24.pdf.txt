@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-87680
+Policy Holder: Michael Chen
+Date of Incident: 02/02/2025
+Claim Amount: $116,666
+Claim Type: Vehicle
+Description: Water damage to home
+Documentation: Contractor estimate attached
+1

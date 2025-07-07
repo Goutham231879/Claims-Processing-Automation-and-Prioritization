@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-90567
+Policy Holder: John Doe
+Claim Amount: $37,640
+Claim Type: Vehicle
+Description: Theft of personal belongings
+Documentation: Medical bills and hospital records attached
+1

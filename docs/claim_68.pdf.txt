@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-88781
+Date of Incident: 07/04/2024
+Claim Amount: $97,065
+Claim Type: Vehicle
+Description: Hospitalization due to emergency surgery
+Documentation: Police report and repair estimate attached
+1

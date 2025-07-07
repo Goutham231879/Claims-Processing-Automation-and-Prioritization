@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-22660
+Policy Holder: Michael Chen
+Date of Incident: 12/23/2025
+Claim Amount: $51,422
+Claim Type: Vehicle
+Description: Flight cancellation due to weather
+Documentation: Receipts and photos attached
+1

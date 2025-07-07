@@ -1,0 +1,10 @@
+{
+  "input_dir": "data/",
+  "output_dir": "docs/",
+  "processed_dir": "processed/",
+  "review_queue": "review_queue.json",
+  "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "amount_threshold": 50000,
+  "supported_extensions": [".pdf", ".jpg", ".jpeg", ".png"],
+  "log_file": "claim_processing.log"
+}

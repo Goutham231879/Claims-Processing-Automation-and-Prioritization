@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-20186
+Policy Holder: James Taylor
+Date of Incident: 05/22/2024
+Claim Amount: $67,251
+Claim Type: Vehicle
+Description: Water damage to home
+Documentation: Contractor estimate attached
+1

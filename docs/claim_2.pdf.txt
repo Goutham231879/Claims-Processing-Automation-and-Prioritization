@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-13709
+Policy Holder: David Lee
+Claim Amount: $17,463
+Claim Type: Medical
+Description: Water damage to home
+Documentation: Police report and repair estimate attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-22798
+Policy Holder: James Taylor
+Date of Incident: 06/07/2024
+Claim Amount: $131,177
+Claim Type: Travel
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-28041
+Policy Holder: Michael Chen
+Date of Incident: 06/24/2024
+Claim Amount: $173,726
+Claim Type: Vehicle
+Description: Hospitalization due to emergency surgery
+Documentation: Travel itinerary and refund request attached
+1

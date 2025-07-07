@@ -1,0 +1,7 @@
+Insurance Claim Form
+Claim Number: CLM-78602
+Claim Amount: $196,941
+Claim Type: Travel
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

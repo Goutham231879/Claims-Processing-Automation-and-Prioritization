@@ -1,0 +1,8 @@
+Insurance Claim Form
+Policy Holder: Alex Brown
+Date of Incident: 11/17/2025
+Claim Amount: $40,240
+Claim Type: Travel
+Description: Car accident with minor damage
+Documentation: Receipts and photos attached
+1

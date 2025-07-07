@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-67453
+Policy Holder: Jane Smith
+Date of Incident: 12/19/2025
+Claim Amount: $98,007
+Claim Type: Home
+Description: Water damage to home
+Documentation: Travel itinerary and refund request attached
+1

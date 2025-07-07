@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-35463
+Policy Holder: Michael Chen
+Date of Incident: 11/02/2025
+Claim Amount: $100,157
+Claim Type: Home
+Description: Theft of personal belongings
+Documentation: Police report and repair estimate attached
+1

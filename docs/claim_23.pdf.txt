@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-11099
+Policy Holder: James Taylor
+Date of Incident: 12/17/2024
+Claim Amount: $22,188
+Claim Type: Travel
+Description: Water damage to home
+Documentation: Medical bills and hospital records attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-43980
+Policy Holder: Jane Smith
+Date of Incident: 10/31/2025
+Claim Amount: $96,845
+Claim Type: Medical
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

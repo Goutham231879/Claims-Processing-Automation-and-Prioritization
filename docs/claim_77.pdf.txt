@@ -1,0 +1,8 @@
+Insurance Claim Form
+Policy Holder: John Doe
+Date of Incident: 04/26/2024
+Claim Amount: $20,236
+Claim Type: Medical
+Description: Flight cancellation due to weather
+Documentation: Receipts and photos attached
+1

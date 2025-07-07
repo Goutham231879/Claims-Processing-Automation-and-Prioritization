@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-49479
+Policy Holder: Michael Chen
+Claim Amount: $107,534
+Claim Type: Medical
+Description: Hospitalization due to emergency surgery
+Documentation: Contractor estimate attached
+1

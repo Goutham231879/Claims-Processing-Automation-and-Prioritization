@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-90584
+Policy Holder: Jane Smith
+Date of Incident: 03/11/2024
+Claim Amount: $142,685
+Claim Type: Vehicle
+Description: Car accident with minor damage
+Documentation: Travel itinerary and refund request attached
+1

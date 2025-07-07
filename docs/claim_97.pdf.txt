@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-64897
+Date of Incident: 03/15/2025
+Claim Amount: $182,450
+Claim Type: Home
+Description: Car accident with minor damage
+Documentation: Receipts and photos attached
+1

@@ -1,0 +1,7 @@
+Insurance Claim Form
+Date of Incident: 08/28/2024
+Claim Amount: $30,522
+Claim Type: Vehicle
+Description: Car accident with minor damage
+Documentation: Police report and repair estimate attached
+1

@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-58365
+Policy Holder: Emma Clark
+Date of Incident: 05/05/2024
+Claim Type: Home
+Description: Hospitalization due to emergency surgery
+Documentation: Contractor estimate attached
+1

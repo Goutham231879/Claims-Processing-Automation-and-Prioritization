@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-56110
+Policy Holder: James Taylor
+Claim Amount: $9,215
+Claim Type: Vehicle
+Description: Flight cancellation due to weather
+Documentation: Travel itinerary and refund request attached
+1

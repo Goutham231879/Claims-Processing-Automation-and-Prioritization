@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-30569
+Policy Holder: John Doe
+Date of Incident: 10/21/2024
+Claim Amount: $12,442
+Claim Type: Home
+Description: Theft of personal belongings
+Documentation: Receipts and photos attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-68877
+Policy Holder: Michael Chen
+Date of Incident: 08/25/2024
+Claim Amount: $105,744
+Claim Type: Theft
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

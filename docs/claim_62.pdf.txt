@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-49412
+Date of Incident: 02/29/2024
+Claim Amount: $48,203
+Claim Type: Home
+Description: Hospitalization due to emergency surgery
+Documentation: Contractor estimate attached
+1

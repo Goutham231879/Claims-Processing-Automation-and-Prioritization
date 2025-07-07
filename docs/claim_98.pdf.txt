@@ -1,0 +1,8 @@
+Insurance Claim Form
+Policy Holder: Laura Martinez
+Date of Incident: 03/23/2025
+Claim Amount: $3,219
+Claim Type: Travel
+Description: Flight cancellation due to weather
+Documentation: Receipts and photos attached
+1

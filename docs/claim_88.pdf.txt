@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-14368
+Policy Holder: James Taylor
+Date of Incident: 10/24/2025
+Claim Amount: $87,574
+Claim Type: Theft
+Description: Car accident with minor damage
+Documentation: Travel itinerary and refund request attached
+1

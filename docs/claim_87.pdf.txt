@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-86386
+Policy Holder: Jane Smith
+Claim Amount: $92,261
+Claim Type: Medical
+Description: Car accident with minor damage
+Documentation: Receipts and photos attached
+1

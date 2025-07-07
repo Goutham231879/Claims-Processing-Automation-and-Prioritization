@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-69755
+Policy Holder: Michael Chen
+Date of Incident: 10/24/2024
+Claim Amount: $42,392
+Claim Type: Medical
+Description: Flight cancellation due to weather
+Documentation: Contractor estimate attached
+1

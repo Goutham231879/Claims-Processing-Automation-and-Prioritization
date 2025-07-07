@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-42598
+Policy Holder: Laura Martinez
+Date of Incident: 05/30/2024
+Claim Amount: $39,585
+Claim Type: Theft
+Description: Water damage to home
+Documentation: Police report and repair estimate attached
+1

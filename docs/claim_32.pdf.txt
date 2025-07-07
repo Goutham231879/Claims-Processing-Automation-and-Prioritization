@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-79903
+Policy Holder: Jane Smith
+Date of Incident: 07/27/2025
+Claim Amount: $40,917
+Claim Type: Medical
+Description: Hospitalization due to emergency surgery
+Documentation: Medical bills and hospital records attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-53791
+Policy Holder: Michael Chen
+Date of Incident: 01/30/2024
+Claim Amount: $35,337
+Claim Type: Medical
+Description: Car accident with minor damage
+Documentation: Medical bills and hospital records attached
+1

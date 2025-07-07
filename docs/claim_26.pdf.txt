@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-70949
+Policy Holder: Emma Clark
+Date of Incident: 07/30/2024
+Claim Amount: $121,443
+Claim Type: Travel
+Description: Flight cancellation due to weather
+Documentation: Medical bills and hospital records attached
+1

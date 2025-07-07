@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-34908
+Date of Incident: 05/25/2024
+Claim Amount: $70,420
+Claim Type: Theft
+Description: Water damage to home
+Documentation: Medical bills and hospital records attached
+1

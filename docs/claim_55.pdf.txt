@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-84812
+Policy Holder: Alex Brown
+Date of Incident: 02/24/2024
+Claim Type: Theft
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

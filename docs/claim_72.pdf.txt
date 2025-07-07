@@ -1,0 +1,7 @@
+Insurance Claim Form
+Claim Number: CLM-50367
+Claim Amount: $167,089
+Claim Type: Travel
+Description: Water damage to home
+Documentation: Contractor estimate attached
+1

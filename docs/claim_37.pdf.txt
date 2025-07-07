@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-64514
+Date of Incident: 10/28/2025
+Claim Amount: $124,253
+Claim Type: Home
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

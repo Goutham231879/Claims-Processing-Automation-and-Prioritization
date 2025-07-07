@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-99365
+Policy Holder: John Doe
+Date of Incident: 11/25/2024
+Claim Amount: $114,840
+Claim Type: Travel
+Description: Theft of personal belongings
+Documentation: Medical bills and hospital records attached
+1

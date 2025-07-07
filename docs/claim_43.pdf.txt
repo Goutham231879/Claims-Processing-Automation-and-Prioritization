@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-19091
+Policy Holder: David Lee
+Date of Incident: 11/06/2024
+Claim Amount: $145,287
+Claim Type: Home
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

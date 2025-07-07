@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-32085
+Policy Holder: Sarah Wilson
+Date of Incident: 06/18/2024
+Claim Amount: $69,334
+Claim Type: Vehicle
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

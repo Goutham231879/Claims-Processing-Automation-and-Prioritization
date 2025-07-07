@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-61426
+Policy Holder: Alex Brown
+Date of Incident: 08/07/2024
+Claim Amount: $33,899
+Claim Type: Medical
+Description: Theft of personal belongings
+Documentation: Travel itinerary and refund request attached
+1

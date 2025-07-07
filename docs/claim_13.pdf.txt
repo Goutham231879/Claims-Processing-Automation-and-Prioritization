@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-97536
+Policy Holder: Emma Clark
+Claim Amount: $10,517
+Claim Type: Home
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

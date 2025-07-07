@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-27118
+Policy Holder: David Lee
+Date of Incident: 06/30/2025
+Claim Type: Medical
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

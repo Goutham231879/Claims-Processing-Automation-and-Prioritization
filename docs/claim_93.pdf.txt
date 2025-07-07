@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-18055
+Policy Holder: Jane Smith
+Date of Incident: 09/21/2024
+Claim Amount: $91,808
+Claim Type: Home
+Description: Flight cancellation due to weather
+Documentation: Police report and repair estimate attached
+1

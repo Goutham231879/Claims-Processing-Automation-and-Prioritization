@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-63396
+Policy Holder: David Lee
+Date of Incident: 08/28/2025
+Claim Amount: $1,041
+Claim Type: Medical
+Description: Theft of personal belongings
+Documentation: Medical bills and hospital records attached
+1

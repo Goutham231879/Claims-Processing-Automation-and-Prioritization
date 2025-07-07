@@ -1,0 +1,992 @@
+[
+    {
+        "claim_number": "CLM-34908",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-34908",
+            "policy_holder": null,
+            "incident_date": "05/25/2024",
+            "claim_amount": "70,420",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-73881",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-73881",
+            "policy_holder": "James Taylor",
+            "incident_date": null,
+            "claim_amount": "89,624",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-67575",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-67575",
+            "policy_holder": "Sarah Wilson",
+            "incident_date": null,
+            "claim_amount": "75,496",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-35058",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-35058",
+            "policy_holder": "Michael Chen",
+            "incident_date": null,
+            "claim_amount": "140,767",
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-33280",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-33280",
+            "policy_holder": null,
+            "incident_date": "11/16/2024",
+            "claim_amount": "172,314",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-86386",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-86386",
+            "policy_holder": "Jane Smith",
+            "incident_date": null,
+            "claim_amount": "92,261",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-49479",
+        "priority": 10,
+        "fields": {
+            "claim_number": "CLM-49479",
+            "policy_holder": "Michael Chen",
+            "incident_date": null,
+            "claim_amount": "107,534",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-98765",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-98765",
+            "policy_holder": "Jane Smith",
+            "incident_date": "06/30/2025",
+            "claim_amount": "100,000",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-78602",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-78602",
+            "policy_holder": null,
+            "incident_date": null,
+            "claim_amount": "196,941",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-90567",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-90567",
+            "policy_holder": "John Doe",
+            "incident_date": null,
+            "claim_amount": "37,640",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-27496",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-27496",
+            "policy_holder": null,
+            "incident_date": "08/19/2024",
+            "claim_amount": "173,629",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-58636",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-58636",
+            "policy_holder": "Emma Clark",
+            "incident_date": "03/05/2024",
+            "claim_amount": "105,499",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-13709",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-13709",
+            "policy_holder": "David Lee",
+            "incident_date": null,
+            "claim_amount": "17,463",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-32058",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-32058",
+            "policy_holder": "Laura Martinez",
+            "incident_date": "05/10/2024",
+            "claim_amount": null,
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-70949",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-70949",
+            "policy_holder": "Emma Clark",
+            "incident_date": "07/30/2024",
+            "claim_amount": "121,443",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-76980",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-76980",
+            "policy_holder": "Jane Smith",
+            "incident_date": "05/13/2024",
+            "claim_amount": "86,627",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-68877",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-68877",
+            "policy_holder": "Michael Chen",
+            "incident_date": "08/25/2024",
+            "claim_amount": "105,744",
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-69099",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-69099",
+            "policy_holder": "Jane Smith",
+            "incident_date": null,
+            "claim_amount": "79,151",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-44712",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-44712",
+            "policy_holder": "Emily Davis",
+            "incident_date": "08/04/2024",
+            "claim_amount": "79,418",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-64514",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-64514",
+            "policy_holder": null,
+            "incident_date": "10/28/2025",
+            "claim_amount": "124,253",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-87793",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-87793",
+            "policy_holder": "Emma Clark",
+            "incident_date": "04/22/2024",
+            "claim_amount": "152,453",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-31246",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-31246",
+            "policy_holder": "Michael Chen",
+            "incident_date": "01/11/2024",
+            "claim_amount": "61,616",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-11599",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-11599",
+            "policy_holder": "Jane Smith",
+            "incident_date": "12/04/2024",
+            "claim_amount": "95,526",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-27118",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-27118",
+            "policy_holder": "David Lee",
+            "incident_date": "06/30/2025",
+            "claim_amount": null,
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-84812",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-84812",
+            "policy_holder": "Alex Brown",
+            "incident_date": "02/24/2024",
+            "claim_amount": null,
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-35104",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-35104",
+            "policy_holder": null,
+            "incident_date": "08/01/2024",
+            "claim_amount": "192,528",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-94512",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-94512",
+            "policy_holder": "Emma Clark",
+            "incident_date": "03/20/2024",
+            "claim_amount": "82,571",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-88781",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-88781",
+            "policy_holder": null,
+            "incident_date": "07/04/2024",
+            "claim_amount": "97,065",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-50367",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-50367",
+            "policy_holder": null,
+            "incident_date": null,
+            "claim_amount": "167,089",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-97468",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-97468",
+            "policy_holder": "John Doe",
+            "incident_date": null,
+            "claim_amount": "140,468",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-99365",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-99365",
+            "policy_holder": "John Doe",
+            "incident_date": "11/25/2024",
+            "claim_amount": "114,840",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-43980",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-43980",
+            "policy_holder": "Jane Smith",
+            "incident_date": "10/31/2025",
+            "claim_amount": "96,845",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-13940",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-13940",
+            "policy_holder": "Alex Brown",
+            "incident_date": "02/01/2025",
+            "claim_amount": "94,034",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-87168",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-87168",
+            "policy_holder": "Alex Brown",
+            "incident_date": "09/29/2025",
+            "claim_amount": "169,826",
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-41477",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-41477",
+            "policy_holder": "Laura Martinez",
+            "incident_date": "09/27/2024",
+            "claim_amount": "154,334",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-31235",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-31235",
+            "policy_holder": "Emily Davis",
+            "incident_date": null,
+            "claim_amount": "93,701",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-64897",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-64897",
+            "policy_holder": null,
+            "incident_date": "03/15/2025",
+            "claim_amount": "182,450",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-98765",
+        "priority": 7,
+        "fields": {
+            "claim_number": "CLM-98765",
+            "policy_holder": "Jane Smith",
+            "incident_date": "06/30/2025",
+            "claim_amount": "100,000",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-42981",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-42981",
+            "policy_holder": "James Taylor",
+            "incident_date": "02/28/2024",
+            "claim_amount": "42,786",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-32821",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-32821",
+            "policy_holder": "Emma Clark",
+            "incident_date": "01/02/2024",
+            "claim_amount": "185,597",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-82010",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-82010",
+            "policy_holder": "John Doe",
+            "incident_date": "11/29/2024",
+            "claim_amount": "152,757",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-97536",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-97536",
+            "policy_holder": "Emma Clark",
+            "incident_date": null,
+            "claim_amount": "10,517",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-61426",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-61426",
+            "policy_holder": "Alex Brown",
+            "incident_date": "08/07/2024",
+            "claim_amount": "33,899",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-39193",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-39193",
+            "policy_holder": "Jane Smith",
+            "incident_date": "01/15/2024",
+            "claim_amount": "53,917",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-29042",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-29042",
+            "policy_holder": "Emily Davis",
+            "incident_date": null,
+            "claim_amount": null,
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-11099",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-11099",
+            "policy_holder": "James Taylor",
+            "incident_date": "12/17/2024",
+            "claim_amount": "22,188",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-87680",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-87680",
+            "policy_holder": "Michael Chen",
+            "incident_date": "02/02/2025",
+            "claim_amount": "116,666",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-22660",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-22660",
+            "policy_holder": "Michael Chen",
+            "incident_date": "12/23/2025",
+            "claim_amount": "51,422",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-18673",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-18673",
+            "policy_holder": "Jane Smith",
+            "incident_date": "11/08/2025",
+            "claim_amount": "198,176",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-40841",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-40841",
+            "policy_holder": "Jane Smith",
+            "incident_date": "01/27/2025",
+            "claim_amount": "158,334",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-79903",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-79903",
+            "policy_holder": "Jane Smith",
+            "incident_date": "07/27/2025",
+            "claim_amount": "40,917",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-31707",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-31707",
+            "policy_holder": "Jane Smith",
+            "incident_date": "04/03/2024",
+            "claim_amount": "185,668",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-73359",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-73359",
+            "policy_holder": "David Lee",
+            "incident_date": "02/28/2025",
+            "claim_amount": "177,278",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-96421",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-96421",
+            "policy_holder": "James Taylor",
+            "incident_date": "05/01/2025",
+            "claim_amount": "162,094",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-60419",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-60419",
+            "policy_holder": "Jane Smith",
+            "incident_date": "09/01/2025",
+            "claim_amount": "93,009",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-69755",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-69755",
+            "policy_holder": "Michael Chen",
+            "incident_date": "10/24/2024",
+            "claim_amount": "42,392",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-19091",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-19091",
+            "policy_holder": "David Lee",
+            "incident_date": "11/06/2024",
+            "claim_amount": "145,287",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-34172",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-34172",
+            "policy_holder": "Jane Smith",
+            "incident_date": "07/06/2025",
+            "claim_amount": null,
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-95188",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-95188",
+            "policy_holder": "John Doe",
+            "incident_date": "11/08/2024",
+            "claim_amount": "198,195",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-46013",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-46013",
+            "policy_holder": "John Doe",
+            "incident_date": null,
+            "claim_amount": "11,137",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-53791",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-53791",
+            "policy_holder": "Michael Chen",
+            "incident_date": "01/30/2024",
+            "claim_amount": "35,337",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-83202",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-83202",
+            "policy_holder": "James Taylor",
+            "incident_date": "06/25/2024",
+            "claim_amount": "126,133",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-90584",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-90584",
+            "policy_holder": "Jane Smith",
+            "incident_date": "03/11/2024",
+            "claim_amount": "142,685",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-42085",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-42085",
+            "policy_holder": "Emily Davis",
+            "incident_date": "10/05/2024",
+            "claim_amount": "167,978",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-58365",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-58365",
+            "policy_holder": "Emma Clark",
+            "incident_date": "05/05/2024",
+            "claim_amount": null,
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-28461",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-28461",
+            "policy_holder": "Sarah Wilson",
+            "incident_date": "10/14/2025",
+            "claim_amount": "152,978",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-28041",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-28041",
+            "policy_holder": "Michael Chen",
+            "incident_date": "06/24/2024",
+            "claim_amount": "173,726",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-49412",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-49412",
+            "policy_holder": null,
+            "incident_date": "02/29/2024",
+            "claim_amount": "48,203",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-82147",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-82147",
+            "policy_holder": "Emma Clark",
+            "incident_date": "01/13/2025",
+            "claim_amount": "139,732",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-99178",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-99178",
+            "policy_holder": "Jane Smith",
+            "incident_date": "04/12/2024",
+            "claim_amount": "104,312",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-22798",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-22798",
+            "policy_holder": "James Taylor",
+            "incident_date": "06/07/2024",
+            "claim_amount": "131,177",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-32085",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-32085",
+            "policy_holder": "Sarah Wilson",
+            "incident_date": "06/18/2024",
+            "claim_amount": "69,334",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-11267",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-11267",
+            "policy_holder": "Michael Chen",
+            "incident_date": "09/14/2024",
+            "claim_amount": "39,316",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-51756",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-51756",
+            "policy_holder": "James Taylor",
+            "incident_date": "02/04/2025",
+            "claim_amount": "35,754",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-20186",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-20186",
+            "policy_holder": "James Taylor",
+            "incident_date": "05/22/2024",
+            "claim_amount": "67,251",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-21822",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-21822",
+            "policy_holder": "Michael Chen",
+            "incident_date": "07/08/2024",
+            "claim_amount": "88,632",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-27716",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-27716",
+            "policy_holder": "Alex Brown",
+            "incident_date": "02/08/2025",
+            "claim_amount": "29,514",
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-67453",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-67453",
+            "policy_holder": "Jane Smith",
+            "incident_date": "12/19/2025",
+            "claim_amount": "98,007",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-67787",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-67787",
+            "policy_holder": "Emma Clark",
+            "incident_date": "10/05/2025",
+            "claim_amount": "163,971",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-17539",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-17539",
+            "policy_holder": "Jane Smith",
+            "incident_date": "01/03/2025",
+            "claim_amount": null,
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-83042",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-83042",
+            "policy_holder": "Jane Smith",
+            "incident_date": "11/29/2025",
+            "claim_amount": "86,968",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-63285",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-63285",
+            "policy_holder": "Sarah Wilson",
+            "incident_date": "06/06/2024",
+            "claim_amount": null,
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-34160",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-34160",
+            "policy_holder": "John Doe",
+            "incident_date": "10/05/2025",
+            "claim_amount": "30,493",
+            "claim_type": "Theft"
+        }
+    },
+    {
+        "claim_number": "CLM-14368",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-14368",
+            "policy_holder": "James Taylor",
+            "incident_date": "10/24/2025",
+            "claim_amount": "87,574",
+            "claim_type": "Travel"
+        }
+    },
+    {
+        "claim_number": "CLM-93730",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-93730",
+            "policy_holder": "Emily Davis",
+            "incident_date": "10/01/2025",
+            "claim_amount": "97,142",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-56110",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-56110",
+            "policy_holder": "James Taylor",
+            "incident_date": null,
+            "claim_amount": "9,215",
+            "claim_type": "Vehicle"
+        }
+    },
+    {
+        "claim_number": "CLM-35463",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-35463",
+            "policy_holder": "Michael Chen",
+            "incident_date": "11/02/2025",
+            "claim_amount": "100,157",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-18055",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-18055",
+            "policy_holder": "Jane Smith",
+            "incident_date": "09/21/2024",
+            "claim_amount": "91,808",
+            "claim_type": "Home"
+        }
+    },
+    {
+        "claim_number": "CLM-63396",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-63396",
+            "policy_holder": "David Lee",
+            "incident_date": "08/28/2025",
+            "claim_amount": "1,041",
+            "claim_type": "Medical"
+        }
+    },
+    {
+        "claim_number": "CLM-75683",
+        "priority": 4,
+        "fields": {
+            "claim_number": "CLM-75683",
+            "policy_holder": "Emma Clark",
+            "incident_date": "03/14/2025",
+            "claim_amount": "156,743",
+            "claim_type": "Travel"
+        }
+    }
+]

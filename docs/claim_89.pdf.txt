@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-41477
+Policy Holder: Laura Martinez
+Date of Incident: 09/27/2024
+Claim Amount: $154,334
+Claim Type: Home
+Description: Car accident with minor damage
+Documentation: Medical bills and hospital records attached
+1

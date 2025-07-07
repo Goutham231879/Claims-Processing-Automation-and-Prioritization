@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-11267
+Policy Holder: Michael Chen
+Date of Incident: 09/14/2024
+Claim Amount: $39,316
+Description: Hospitalization due to emergency surgery
+Documentation: Medical bills and hospital records attached
+1

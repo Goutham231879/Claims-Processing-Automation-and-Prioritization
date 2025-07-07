@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-96421
+Policy Holder: James Taylor
+Date of Incident: 05/01/2025
+Claim Amount: $162,094
+Claim Type: Home
+Description: Car accident with minor damage
+Documentation: Receipts and photos attached
+1

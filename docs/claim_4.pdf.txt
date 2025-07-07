@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-87793
+Policy Holder: Emma Clark
+Date of Incident: 04/22/2024
+Claim Amount: $152,453
+Description: Water damage to home
+Documentation: Medical bills and hospital records attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-93730
+Policy Holder: Emily Davis
+Date of Incident: 10/01/2025
+Claim Amount: $97,142
+Claim Type: Vehicle
+Description: Car accident with minor damage
+Documentation: Police report and repair estimate attached
+1

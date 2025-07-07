@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-73359
+Policy Holder: David Lee
+Date of Incident: 02/28/2025
+Claim Amount: $177,278
+Claim Type: Theft
+Description: Water damage to home
+Documentation: Contractor estimate attached
+1

@@ -1,0 +1,7 @@
+Insurance Claim Form
+Claim Number: CLM-29042
+Policy Holder: Emily Davis
+Claim Type: Home
+Description: Theft of personal belongings
+Documentation: Police report and repair estimate attached
+1

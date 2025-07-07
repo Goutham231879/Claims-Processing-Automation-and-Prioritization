@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-33280
+Date of Incident: 11/16/2024
+Claim Amount: $172,314
+Claim Type: Home
+Description: Car accident with minor damage
+Documentation: Medical bills and hospital records attached
+1

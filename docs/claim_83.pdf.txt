@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-63175
+Policy Holder: Michael Chen
+Date of Incident: 11/18/2025
+Claim Amount: $28,413
+Claim Type: Home
+Description: Car accident with minor damage
+Documentation: Contractor estimate attached
+1

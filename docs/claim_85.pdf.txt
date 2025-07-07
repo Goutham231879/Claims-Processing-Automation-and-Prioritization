@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-13940
+Policy Holder: Alex Brown
+Date of Incident: 02/01/2025
+Claim Amount: $94,034
+Claim Type: Vehicle
+Description: Theft of personal belongings
+Documentation: Medical bills and hospital records attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-34160
+Policy Holder: John Doe
+Date of Incident: 10/05/2025
+Claim Amount: $30,493
+Claim Type: Theft
+Description: Theft of personal belongings
+Documentation: Police report and repair estimate attached
+1

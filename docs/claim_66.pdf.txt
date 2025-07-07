@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-99178
+Policy Holder: Jane Smith
+Date of Incident: 04/12/2024
+Claim Amount: $104,312
+Claim Type: Travel
+Description: Water damage to home
+Documentation: Receipts and photos attached
+1

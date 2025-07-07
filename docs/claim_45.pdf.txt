@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-34172
+Policy Holder: Jane Smith
+Date of Incident: 07/06/2025
+Claim Type: Theft
+Description: Water damage to home
+Documentation: Police report and repair estimate attached
+1

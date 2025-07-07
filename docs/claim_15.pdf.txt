@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-39193
+Policy Holder: Jane Smith
+Date of Incident: 01/15/2024
+Claim Amount: $53,917
+Claim Type: Travel
+Description: Flight cancellation due to weather
+Documentation: Receipts and photos attached
+1

@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-46013
+Policy Holder: John Doe
+Claim Amount: $11,137
+Claim Type: Vehicle
+Description: Theft of personal belongings
+Documentation: Contractor estimate attached
+1

@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-75611
+Policy Holder: Michael Chen
+Date of Incident: 09/08/2024
+Claim Amount: $49,057
+Claim Type: Travel
+Description: Hospitalization due to emergency surgery
+Documentation: Contractor estimate attached
+1

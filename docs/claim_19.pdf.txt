@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-58636
+Policy Holder: Emma Clark
+Date of Incident: 03/05/2024
+Claim Amount: $105,499
+Claim Type: Medical
+Description: Hospitalization due to emergency surgery
+Documentation: Contractor estimate attached
+1

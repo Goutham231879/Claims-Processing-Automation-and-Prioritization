@@ -1,0 +1,7 @@
+Insurance Claim Form
+Policy Holder: Jane Smith
+Date of Incident: 06/27/2024
+Claim Amount: $145,162
+Description: Theft of personal belongings
+Documentation: Travel itinerary and refund request attached
+1

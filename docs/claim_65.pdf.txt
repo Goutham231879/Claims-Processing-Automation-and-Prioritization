@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-94512
+Policy Holder: Emma Clark
+Date of Incident: 03/20/2024
+Claim Amount: $82,571
+Claim Type: Travel
+Description: Theft of personal belongings
+Documentation: Medical bills and hospital records attached
+1

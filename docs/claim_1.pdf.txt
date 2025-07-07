@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-42981
+Policy Holder: James Taylor
+Date of Incident: 02/28/2024
+Claim Amount: $42,786
+Claim Type: Medical
+Description: Theft of personal belongings
+Documentation: Travel itinerary and refund request attached
+1

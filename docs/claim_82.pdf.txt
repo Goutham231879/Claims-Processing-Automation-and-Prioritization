@@ -1,0 +1,8 @@
+Insurance Claim Form
+Claim Number: CLM-63285
+Policy Holder: Sarah Wilson
+Date of Incident: 06/06/2024
+Claim Type: Travel
+Description: Car accident with minor damage
+Documentation: Police report and repair estimate attached
+1

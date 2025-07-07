@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim Number: CLM-83202
+Policy Holder: James Taylor
+Date of Incident: 06/25/2024
+Claim Amount: $126,133
+Claim Type: Vehicle
+Description: Water damage to home
+Documentation: Police report and repair estimate attached
+1
