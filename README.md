@@ -22,3 +22,7 @@ claims-processing/
 
 git remote add origin https://github.com/your-username/my-project.git
 Claims-Processing-Automation-and-Prioritization
+
+https://github.com/Goutham231879/
+Claims-Processing-Automation-and-Prioritization
+.git
